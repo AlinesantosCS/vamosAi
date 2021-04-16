@@ -15,3 +15,12 @@
 | Algoritmo e pensamento computacional | 
 |Lógica de programação: variáveis, condicionais, loops, funções, listas|
 |Versionamento de código|
+
+
+| Módulo 2 - Orientação a objetos e utilização de aplicações HTTP | 
+| -------------------------------------------------| 
+| Orientação a objetos| 
+| Bibliotecas| 
+| Ambientes virtuais| 
+|Utilização de API’s REST e Microsserviços com HTTPs|
+
