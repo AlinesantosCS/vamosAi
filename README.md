@@ -22,5 +22,5 @@
 | Orientação a objetos| 
 | Bibliotecas| 
 | Ambientes virtuais| 
-|Utilização de API’s REST e Microsserviços com HTTPs|
+|Utilização de API’s e Microsserviços com HTTPs|
 
